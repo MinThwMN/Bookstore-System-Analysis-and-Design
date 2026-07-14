@@ -104,12 +104,10 @@ Reference systems analyzed:
 ├── docs/
 │   └── System_Analysis_and_Design_Report.pdf
 ├── diagrams/
-│   ├── UseCase.png
-│   ├── Activity.png
-│   ├── Sequence.png
-│   ├── Class.png
-│   ├── ERD.png
-│   └── ...
+│   ├── Use case/
+│   ├── Activity diagram/
+│   ├── Sequence diagram/
+│   ├── Class diagram/
 └── prototype/
     └── UI Screenshots
 ```
